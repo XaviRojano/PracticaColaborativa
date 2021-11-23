@@ -1,1 +1,3 @@
 Esto es la primera linea de un archivo colaborativo
+
+ESTE DOCUMENTO ESTÁ SIENDO EDITADO DESDE OTRO DISPOSITIVO.
